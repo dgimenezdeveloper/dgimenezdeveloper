@@ -88,10 +88,13 @@
 | Project | Domain & Purpose | Architecture & Tech Stack | Access |
 | :--- | :--- | :--- | :---: |
 | **[MargenX](https://github.com/dgimenezdeveloper/margenx)** | Real-Time Profit Margin & Recipe Costing SaaS | React 19, Node.js, Prisma, PostgreSQL 16, Docker, n8n Webhooks | [Repo](https://github.com/dgimenezdeveloper/margenx) |
+| **[El Arca](https://github.com/FolkodeGroup)** | Fitness SaaS & Gym Management ERP | React, Node.js, PostgreSQL, QR Check-in, POS & Billing | [Folkode](https://github.com/FolkodeGroup) |
 | **[Chatbot Comercial](https://github.com/dgimenezdeveloper/chatbot-comercial)** | 24/7 Conversational Booking Engine (Pymio) | FastAPI, Python 3.11, Redis, Celery Beat, WhatsApp Cloud API | [Repo](https://github.com/dgimenezdeveloper/chatbot-comercial) |
 | **[Allmart](https://github.com/FolkodeGroup/allmart)** | E-Commerce Platform & Retail Management ERP | React 19, Express, Node 22, Prisma 7, Cloudflare R2, Puppeteer | [Live Demo](https://allmartbazar.com.ar) |
-| **[Congreso UNaB](https://github.com/dgimenezdeveloper/congreso-logistica)** | Event Management & Dynamic QR Accreditation | React 18, Vite, Django 5.2, DRF, ReportLab Vector PDF, SMTP | [Live Demo](https://congreso-logistica.vercel.app) |
+| **[Congreso UNaB](https://github.com/dgimenezdeveloper/congreso-logistica)** | Event Management & Dynamic QR Accreditation | React 18, Vite, Django 5.2, DRF, ReportLab Vector PDF, SMTP | [Live Demo](https://www.congresologistica.unab.edu.ar/) |
 | **[EuroSAT AI Lab](https://github.com/dgimenezdeveloper/eurosat-ai-lab)** | Satellite Land Cover Multi-Class Computer Vision | PyTorch 2.2, Sentinel-2 (27K Patches), FastAPI, Streamlit | [Colab](https://colab.research.google.com/github/dgimenezdeveloper/eurosat-ai-lab/blob/main/notebooks/01_etapa1_eda_baseline.ipynb) |
+
+---
 
 ---
 
